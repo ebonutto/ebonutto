@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**ebonutto/ebonutto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [WIP] Wanna stalk me ?
+- [Linkedin](https://www.linkedin.com/in/elio-bonutto/)
+- [Root-Me]()
+- [CryptoHack]()
 
-Here are some ideas to get you started:
+### DNA
+```c
+struct s_ebonutto {
+	char *role;     // Cybersecurity & Cryptology Engineer
+	char *school;   // 42 Paris
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	char *code[];   // [C, Rust, ASM, Python, Go]
+	char *skills[]; // [Reverse, Malware, Cryptography, Networking]
+
+	char *work[];   // [, Red Bull, Freelance]
+	char *focus;    // "Low-level systems & offensive security"
+};
+```
