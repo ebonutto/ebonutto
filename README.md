@@ -1,6 +1,4 @@
-## Hello there !
-
-<img width="3751" height="2385" alt="animatrix" src="https://github.com/user-attachments/assets/05ac3bc8-e82b-4b70-9d2c-26ca683ce650" />
+<img width="523" height="72" alt="Who-are-you?" src="https://github.com/user-attachments/assets/c6102c51-b4f8-4e3f-af28-0321f9402a60" />
 
 ```c
 struct s_ebonutto {
@@ -14,3 +12,5 @@ struct s_ebonutto {
 	char *work[];    // [CERT, Red Bull, Freelance]
 };
 ```
+
+<img width="803" height="210" alt="Am-i-alone?" src="https://github.com/user-attachments/assets/b43a2531-aee1-4952-93cd-fc9014165e0e" />
