@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello there !
 
 ### [WIP] Wanna stalk me ?
 - [Linkedin](https://www.linkedin.com/in/elio-bonutto/)
